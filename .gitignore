@@ -8,6 +8,9 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.DS_Store
+.virtual_documents
+*.whl
 build/
 develop-eggs/
 dist/
